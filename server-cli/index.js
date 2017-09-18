@@ -1,1 +1,1 @@
-document.write('use server-cli to start webpack-hmr')
+document.write('server-cli start webpack-hmr is working！')
