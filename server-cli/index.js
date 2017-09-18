@@ -1,0 +1,1 @@
+document.write('use server-cli to start webpack-hmr')
