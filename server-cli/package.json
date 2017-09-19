@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "webpack-dev-server --inline --open --port 8888 webpack.config.js"
+    "start": "webpack-dev-server --inline --open --port 8888 --config webpack.config.dev.js"
   },
   "author": "super",
   "license": "MIT"
